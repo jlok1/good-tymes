@@ -20,3 +20,7 @@ The first thing we learn is called teamwork. With a strong team, it helps us to 
 
 ## What's next for GoodTymes
 For further enhancements to our applications we will try to add a function based on the history activity joined by the user to come up with a way to derive and suggest or bookmark the favorite activity for the user. If there is any similar activity to the user's favorites, then the app will be triggered and will send a notification to the user to prompt the user with the activity details. We will also add a function called Spatial crowdsourcing, which is to let senior citizens share time and efforts in doing quality activities together. This function is to help each other spend quality time, ensure good mental state, prevent loneliness, and make new friends.
+
+
+** Due to size constraint: Here's the link to the APK file on Google Drive
+https://drive.google.com/file/d/17ZlkiuGL54iXlwJ1otHWkB0l5lDihl-T/view?usp=sharing
